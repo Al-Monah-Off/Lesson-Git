@@ -1,3 +1,3 @@
 print("Some string")
 print("Other string")
-print("Other other")
+print("Other hui")
